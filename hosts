@@ -1,0 +1,35 @@
+127.0.0.1	localhost
+127.0.1.1	gulyasm-thinkpad
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+127.0.0.1 presentation.dmlab.hu
+
+
+# Block Facebook
+127.0.0.1 www.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 www.static.ak.fbcdn.net
+127.0.0.1 login.facebook.com
+127.0.0.1 www.login.facebook.com
+127.0.0.1 fbcdn.net
+127.0.0.1 www.fbcdn.net
+127.0.0.1 fbcdn.com
+127.0.0.1 www.fbcdn.com
+127.0.0.1 static.ak.connect.facebook.com
+127.0.0.1 www.static.ak.connect.facebook.com
+
+# Block distracting sites
+127.0.0.1 nso.hu www.nemzetisport.hu
+127.0.0.1 velvet.hu index.hu sportgeza.hu totalcar.hu
+127.0.0.1 hvg.hu
+127.0.0.1 444.hu
+127.0.0.1 mandiner.hu blog.mandiner.hu
+127.0.0.1 vastagbor.blog.hu
+127.0.0.1 comment.blog.hu
+127.0.0.1 burger.blog.hu
